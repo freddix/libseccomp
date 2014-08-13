@@ -1,7 +1,7 @@
 Summary:	High level interface to the Linux Kernel's seccomp filter
 Name:		libseccomp
 Version:	2.1.1
-Release:	1
+Release:	2
 License:	LGPL v2.1
 Group:		Libraries
 Source0:	http://downloads.sourceforge.net/libseccomp/%{name}-%{version}.tar.gz
